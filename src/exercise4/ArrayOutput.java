@@ -5,7 +5,7 @@ import java.util.Scanner;
 
   public class ArrayOutput {
 
-    public static void main(StringC args) {
+    public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         int count = input.nextInt();
        int[] array = new int[count];
